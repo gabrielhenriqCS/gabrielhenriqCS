@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Gabriel Sousa from Brazil</h2>
+<h2 align="left">Hi 👋! I'm Gabriel Henrique from Brazil</h2>
 
 ###
 
