@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Gabriel Henrique from Brazil</h2>
+<h2 align="center">Hi 👋! I'm Gabriel Henrique</h2>
 
 ###
 
@@ -59,5 +59,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
 </div>
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
