@@ -62,6 +62,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row&margin-w=20&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
