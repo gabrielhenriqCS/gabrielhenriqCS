@@ -1,6 +1,7 @@
-<h2 align="center">Hi 👋! I'm Gabriel Henrique</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Gabriel%20Henrique"/>
 
-###
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Tenho+20+anos;Gosto+da+%C3%81rea+de+TI;Aprendendo+programa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!+🚀)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquedev24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
