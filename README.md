@@ -71,4 +71,3 @@
 
 ###
 
-![snake animation](https://github.com/henriquedev24/henriquedev24/blob/output/github-contribution-grid-snake2.svg)
