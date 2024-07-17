@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Gabriel%20Henrique"/>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=00CED1&text=Gabriel%20Henrique&reversal=false&textBg=false&animation=blink&fontAlignY=40&fontSize=70)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Tenho+20+anos;Gosto+da+%C3%81rea+de+TI;Aprendendo+programa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!+🚀)
 
@@ -8,11 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedev24&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=500&h=300&crop=1"  />
-
-###
+## Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,4 +67,4 @@
 
 ###
 
-![Snake animation]((https://github.com/henriquedev24/henriquedev24/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/henriquedev24/henriquedev24/output/github-contribution-grid-snake-dark.svg)
