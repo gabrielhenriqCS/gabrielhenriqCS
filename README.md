@@ -55,15 +55,13 @@
   </a>
 </div>
 
-###
+## GitHub Trophies 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
 </div>
-
-## GitHub Trophies 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
