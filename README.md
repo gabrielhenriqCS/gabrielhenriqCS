@@ -1,11 +1,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=00CED1&text=Gabriel%20Henrique&reversal=false&textBg=false&animation=blink&fontAlignY=40&fontSize=70)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Tenho+20+anos;Gosto+da+%C3%81rea+de+TI;Aprendendo+programa%C3%A7%C3%A3o;Bem-vindo+ao+meu+perfil!+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I%C2%B4m+20+years+;Learning+to+program;I+like+IT+area+%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%9A%80)
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquedev24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedev24&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedev24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ## Languages and Tools 👨‍💻
@@ -36,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="csharp logo"  />
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="csharp logo"  />
 </div>
   
 
