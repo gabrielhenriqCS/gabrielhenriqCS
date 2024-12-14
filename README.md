@@ -2,6 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I%C2%B4m+20+years+;Learning+to+program;I+like+IT+area+%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%9A%80)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henriquedev24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -67,9 +72,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
-</div>
 
 ###
 
