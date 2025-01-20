@@ -2,9 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=I%C2%B4m+20+years+;Learning+to+program;I+like+IT+area+%F0%9F%92%BB;Welcome+to+my+profile+%F0%9F%9A%80)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
-</div>
 
 ###
 
@@ -72,6 +69,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
+</div>
 
 ###
 
