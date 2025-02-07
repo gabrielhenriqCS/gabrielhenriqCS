@@ -6,8 +6,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henriquedev24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquedev24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhenriqCS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhenriqCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ## Languages and Tools 👨‍💻
@@ -52,7 +52,7 @@
 ## Contacts 📲
 
 <div align="center">
-  <a href="https://www.instagram.com/gabrielhenriqcs/" target="_blank">
+  <a href="https://www.instagram.com/biel.henriqz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -70,7 +70,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/gabrielhenriqCS/count.svg?"  />
 </div>
 
 ## Roadmap.sh
@@ -78,4 +78,4 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/henriquedev24/henriquedev24/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/gabrielhenriqCS/gabrielhenriqCS/output/github-contribution-grid-snake-dark.svg)
