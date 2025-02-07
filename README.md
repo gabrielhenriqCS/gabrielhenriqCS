@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhenriqCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h1 align="center">Languages and Tools 👨‍💻</h1>
+<h2 align="center">Languages and Tools 👨‍💻</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -49,7 +49,7 @@
 </div>
   
 
-<h1 align="center">Contacts 📲</h1>
+<h2 align="center">Contacts 📲</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/biel.henriqz/" target="_blank">
@@ -65,16 +65,16 @@
   </a>
 </div>
 
-<h1 align="center">GitHub Trophies 🏆</h1>
+<h2 align="center">GitHub Trophies 🏆</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1 align="center">Visitors</h1>
+<h2 align="center">Visitors</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabrielhenriqCS/count.svg?"  />
 </div>
 
-<h1 align="center">Roadmap.sh</h1>
+<h2 align="center">Roadmap.sh</h2>
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6716a643791f57dd6061bbd3?variant=dark" alt="roadmap.sh"/></a>
 
 ###
