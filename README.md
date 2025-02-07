@@ -73,6 +73,9 @@
   <img src="https://profile-counter.glitch.me/henriquedev24/count.svg?"  />
 </div>
 
+## Roadmap.sh
+[![roadmap.sh](https://roadmap.sh/card/wide/6716a643791f57dd6061bbd3?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
+
 ###
 
 ![Snake animation](https://raw.githubusercontent.com/henriquedev24/henriquedev24/output/github-contribution-grid-snake-dark.svg)
