@@ -69,6 +69,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Visitors
 <div align="center">
   <img src="https://profile-counter.glitch.me/gabrielhenriqCS/count.svg?"  />
 </div>
