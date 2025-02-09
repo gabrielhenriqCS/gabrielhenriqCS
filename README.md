@@ -81,5 +81,3 @@
 
 
 ###
-
-![Snake animation](https://raw.githubusercontent.com/gabrielhenriqCS/gabrielhenriqCS/output/github-contribution-grid-snake-dark.svg)
