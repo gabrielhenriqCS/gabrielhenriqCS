@@ -11,7 +11,7 @@
   experiência na área.🚀
 </p>
 
-<h2 align="center">Soft Skills 👨‍💻</h2>
+<h2 align="center">Skills 👨‍💻</h2>
 
 <h3>Front-End:</h3>
 <div align="left">
