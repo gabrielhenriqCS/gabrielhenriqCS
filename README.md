@@ -6,9 +6,10 @@
 ###
 
 <h2 align="center">About me</h2>
-<p>
-  Sou Gabriel Henrique, tenho 20 anos e estou no início da minha carreira na área de desenvolvimento de software. Atualmente curso Análise e Desenvolvimento de Sistemas, busco minha primeira
-  experiência na área.🚀
+<p align="center">
+  Sou <b>Gabriel Henrique</b>, tenho 20 anos e sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>. <br>
+  Apaixonado por tecnologia, atualmente busco minha primeira experiência profissional na área de <b>desenvolvimento Full-Stack</b>. 🚀 <br>
+  Gosto de aprender coisas novas e estou sempre em constante evolução, praticando através de projetos e estudos contínuos.
 </p>
 
 <h2 align="center">Skills 👨‍💻</h2>
@@ -75,13 +76,11 @@
   <img src="https://profile-counter.glitch.me/gabrielhenriqCS/count.svg?"  />
 </div>
 
-<h2 align="center">Statistics Profile</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielhenriqCS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhenriqCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">Roadmap.sh</h2>
 <div align="center">
   <a href="https://roadmap.sh" style=""><img src="https://roadmap.sh/card/wide/6716a643791f57dd6061bbd3?variant=dark" alt="roadmap.sh"/></a>
 </div>
