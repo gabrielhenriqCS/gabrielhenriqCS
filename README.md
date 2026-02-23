@@ -96,14 +96,6 @@
 
 ---
 
-<h2 align="center">📊 Statistics Profile</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielhenriqCS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhenriqCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
----
-
 <h2 align="center">🛣️ Roadmap.sh</h2>
 <div align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6716a643791f57dd6061bbd3?variant=dark" alt="roadmap.sh"/></a>
